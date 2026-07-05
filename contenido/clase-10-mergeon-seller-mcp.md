@@ -52,6 +52,17 @@ Estos son los prompts que resumen el diferencial, listos para probar con la plat
 3. **Automatizar pauta:** "Crea un flujo que, cuando llegue exactamente '[texto del anuncio]', responda con [saludo + catálogo] y luego deje que el agente cierre."
 4. **CRM + seguimiento + medición:** "Impórtame estos leads al CRM, arma un nurturing de 3 toques para los tibios y manda a Meta el evento de compra de las ventas de hoy."
 
+## El privilegio MergeOn: lo que en el curso haces a mano, aquí viene hecho
+
+Este es el ángulo que le interesa al negocio: lo que en el resto del curso aprendes a construir paso a paso, en MergeOn viene resuelto de fábrica.
+
+- **Biblioteca de plantillas de venta:** bienvenida, seguimiento (día 1/3/7), recuperación de carrito, post-venta y reactivación — listas y generables, sin partir de cero.
+- **Métricas de WhatsApp en el tablero:** tiempo de primera respuesta, tasa de respuesta, conversión chat→venta y desempeño por asesor (las que la pauta no te muestra).
+- **Nurturing y seguimiento automáticos:** las secuencias de la Clase 4, corriendo solas.
+- **El prompt del agente generado por ti:** lo de la Clase 8, pedido en una frase.
+
+Y todo se pide o ajusta por conversación gracias al MCP: es el "hazlo por mí" de todo lo que viste en el curso, y es lo exclusivo de operar sobre MergeOn.
+
 ## Para recordar
 - Es una plataforma todo-en-uno con agentes de IA que aplica el flujo (Clase 4) y la medición CAPI (Clase 6) en un solo lugar.
 - Su diferencial es el MCP: se opera hablando con Claude, que ejecuta acciones reales sobre la cuenta.

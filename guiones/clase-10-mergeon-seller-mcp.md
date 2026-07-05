@@ -40,6 +40,14 @@
 - Lo primero: cuánta plata procesó la IA y cuántos pedidos creó sola (el ROI). Luego: inbox, CRM por estados, catálogo y los flows activos.
 - Idea final: "hablas con Claude para construir; usas la interfaz para ver y operar."
 
+### El privilegio MergeOn (lo que en el curso haces a mano, aquí viene hecho)
+- Este es el gancho para el negocio: todo lo que en el resto del curso aprendes a montar a pulso, MergeOn te lo da resuelto.
+- **Plantillas de venta listas:** bienvenida, seguimiento (día 1/3/7), recuperación de carrito, post-venta y reactivación — no arrancas de cero, se generan y quedan cargadas.
+- **Las métricas de WhatsApp que importan**, en el tablero: tiempo de primera respuesta, tasa de respuesta, conversión chat→venta y desempeño por asesor (las que la pauta no te muestra).
+- **Seguimiento y nurturing automáticos:** las secuencias que dibujaste en la Clase 4, aquí corriendo solas.
+- **El prompt del agente, hecho:** el de la Clase 8 se lo pides a Claude y queda listo.
+- Remátalo: "Todo esto se pide y se ajusta hablando. Es, literalmente, el 'hazlo por mí' de todo el curso — y es exclusivo de trabajar sobre MergeOn."
+
 ## 3. Demo / Práctica
 - En vivo: conectar el MCP y correr los cuatro prompts; mostrar cómo cada cambio aparece en la interfaz.
 

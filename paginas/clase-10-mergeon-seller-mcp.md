@@ -14,6 +14,9 @@ Una plataforma todo-en-uno (agente de IA + CRM + catálogo + campañas + CAPI) c
 ## Tags
 `MCP` · `Todo-en-uno` · `Automatización` · `CAPI`
 
+## Privilegio MergeOn
+Lo que en el curso haces a mano, aquí viene hecho: plantillas de venta listas, métricas de WhatsApp en el tablero, nurturing automático y el prompt del agente generado — todo pedido por conversación.
+
 ## Prompt de la clase
 > "Crea un flujo: cuando llegue exactamente 'Quiero más información', responde con el saludo y el catálogo, y deja que el agente cierre."
 
