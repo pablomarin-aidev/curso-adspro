@@ -1,6 +1,6 @@
 # Clase 5 — La API por dentro (sin tecnicismos)
 
-**Módulo 5 · LA API POR DENTRO · ~12 min**
+**Módulo 5 · LA API POR DENTRO · ~9 min**
 
 ### Por qué la app de WhatsApp se te queda corta para vender
 

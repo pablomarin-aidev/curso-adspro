@@ -1,6 +1,6 @@
 # Clase 11 — Casos de uso reales
 
-**Módulo 11 · CASOS REALES · ~9 min**
+**Módulo 11 · CASOS REALES · ~7 min**
 
 ### La misma tecnología, siete negocios distintos
 

@@ -1,6 +1,6 @@
 # Guion — Clase 13: Cierre y siguiente paso
 
-> Curso: AdsPRO · Módulo 13 · CIERRE · ~7 min
+> Curso: AdsPRO · Módulo 13 · CIERRE · ~5 min
 > Formato: contenido a grabar (puntos a decir, no palabra por palabra).
 > Voz: español colombiano, "tú", directa y motivadora.
 > Objetivo: que el módulo deje una ruta clara de acción.

@@ -1,6 +1,6 @@
 # Guion — Clase 11: Casos de uso reales
 
-> Curso: AdsPRO · Módulo 11 · CASOS REALES · ~9 min
+> Curso: AdsPRO · Módulo 11 · CASOS REALES · ~7 min
 > Formato: contenido a grabar (puntos a decir, no palabra por palabra).
 > Voz: español colombiano, "tú", directa y con energía.
 > Objetivo: aterrizar el valor en negocios reales.

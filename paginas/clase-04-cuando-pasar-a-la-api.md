@@ -1,6 +1,6 @@
-# 02 · Cuándo un negocio ya debería pasar a la API
+# 04 · Cuándo un negocio ya debería pasar a la API
 
-> Módulo 2 · FUNDAMENTOS · ~7 min
+> Módulo 4 · FUNDAMENTOS · ~5 min
 
 **No es cuestión de tamaño, es cuestión de dolor**
 

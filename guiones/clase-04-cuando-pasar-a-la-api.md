@@ -1,6 +1,6 @@
-# Guion — Clase 2: Cuándo un negocio ya debería pasar a la API
+# Guion — Clase 4: Cuándo un negocio ya debería pasar a la API
 
-> Curso: AdsPRO · Módulo 2 · FUNDAMENTOS · ~7 min
+> Curso: AdsPRO · Módulo 4 · FUNDAMENTOS · ~5 min
 > Formato: contenido a grabar (puntos a decir, no palabra por palabra).
 > Voz: español colombiano, "tú", directa y con energía.
 > Objetivo: que separen los negocios que ya necesitan la API de los que no, y se sientan identificados.

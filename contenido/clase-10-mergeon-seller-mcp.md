@@ -1,6 +1,6 @@
 # Clase 10 — MergeOn Seller: la plataforma que configuras hablando con Claude
 
-**Módulo 10 · PLATAFORMAS & AGENTES · ~9 min**
+**Módulo 10 · PLATAFORMAS & AGENTES · ~7 min**
 
 ### Todo-en-uno con agentes de IA, configurada por conversación
 
@@ -13,7 +13,7 @@ La mayoría de plataformas de WhatsApp te obligan a configurar a mano cada flujo
 
 ## Qué es MergeOn Seller
 
-Es una plataforma todo-en-uno (el tipo que viste en la Clase 8): un agente de IA que vende por WhatsApp e Instagram, más CRM, catálogo, pedidos, campañas y Conversions API, todo conectado. En la práctica reúne el flujo de ventas de la Clase 4 y la medición CAPI de la Clase 6 en un solo lugar.
+Es una plataforma todo-en-uno (el tipo que viste en la Clase 8): un agente de IA que vende por WhatsApp e Instagram, más CRM, catálogo, pedidos, campañas y Conversions API, todo conectado. En la práctica reúne el flujo de ventas de la Clase 3 y la medición CAPI de la Clase 6 en un solo lugar.
 
 Su diferencial es el **MCP**: un puente oficial que permite conectar la plataforma a Claude, de modo que la IA puede usarla como un empleado con acceso a todo — no solo responde, ejecuta acciones reales sobre la cuenta.
 
@@ -58,12 +58,12 @@ Este es el ángulo que le interesa al negocio: lo que en el resto del curso apre
 
 - **Biblioteca de plantillas de venta:** bienvenida, seguimiento (día 1/3/7), recuperación de carrito, post-venta y reactivación — listas y generables, sin partir de cero.
 - **Métricas de WhatsApp en el tablero:** tiempo de primera respuesta, tasa de respuesta, conversión chat→venta y desempeño por asesor (las que la pauta no te muestra).
-- **Nurturing y seguimiento automáticos:** las secuencias de la Clase 4, corriendo solas.
+- **Nurturing y seguimiento automáticos:** las secuencias de la Clase 3, corriendo solas.
 - **El prompt del agente generado por ti:** lo de la Clase 8, pedido en una frase.
 
 Y todo se pide o ajusta por conversación gracias al MCP: es el "hazlo por mí" de todo lo que viste en el curso, y es lo exclusivo de operar sobre MergeOn.
 
 ## Para recordar
-- Es una plataforma todo-en-uno con agentes de IA que aplica el flujo (Clase 4) y la medición CAPI (Clase 6) en un solo lugar.
+- Es una plataforma todo-en-uno con agentes de IA que aplica el flujo (Clase 3) y la medición CAPI (Clase 6) en un solo lugar.
 - Su diferencial es el MCP: se opera hablando con Claude, que ejecuta acciones reales sobre la cuenta.
 - El grueso del valor está en configurar por conversación (80%); la interfaz (20%) es donde se ve y se opera lo construido.

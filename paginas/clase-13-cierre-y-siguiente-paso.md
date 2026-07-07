@@ -1,6 +1,6 @@
 # 13 · Cierre y siguiente paso
 
-> Módulo 13 · CIERRE · ~7 min
+> Módulo 13 · CIERRE · ~5 min
 
 **De saber a hacer: tu ruta clara**
 

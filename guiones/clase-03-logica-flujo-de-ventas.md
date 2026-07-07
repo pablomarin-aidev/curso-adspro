@@ -1,6 +1,6 @@
-# Guion — Clase 4: La lógica de un buen flujo de ventas
+# Guion — Clase 3: La lógica de un buen flujo de ventas
 
-> Curso: AdsPRO · Módulo 4 · VENTA & PERSUASIÓN · ~9 min
+> Curso: AdsPRO · Módulo 3 · VENTA & PERSUASIÓN · ~7 min
 > Formato: contenido a grabar (puntos a decir, no palabra por palabra).
 > Voz: español colombiano, "tú", directa y con energía.
 > Objetivo: que entiendan el sistema completo de ventas, no solo el chat.

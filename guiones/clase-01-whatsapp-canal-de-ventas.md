@@ -1,6 +1,6 @@
 # Guion — Clase 1: Qué es realmente WhatsApp como canal de ventas
 
-> Curso: AdsPRO · Módulo 1 · FUNDAMENTOS · ~8 min
+> Curso: AdsPRO · Módulo 1 · FUNDAMENTOS · ~6 min
 > Formato: contenido a grabar (puntos a decir, no palabra por palabra).
 > Voz: español colombiano, "tú", directa y con energía.
 > Objetivo: que entiendan que la API es para vender mejor y escalar, no para "tener más WhatsApp".

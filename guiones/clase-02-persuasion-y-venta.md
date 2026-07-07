@@ -1,6 +1,6 @@
-# Guion — Clase 3: Persuasión y venta por WhatsApp
+# Guion — Clase 2: Persuasión y venta por WhatsApp
 
-> Curso: AdsPRO · Módulo 3 · VENTA & PERSUASIÓN · ~9 min
+> Curso: AdsPRO · Módulo 2 · VENTA & PERSUASIÓN · ~7 min
 > Formato: contenido a grabar (puntos a decir, no palabra por palabra).
 > Voz: español colombiano, "tú", directa y con energía.
 > Objetivo: que entiendan que vender por WhatsApp no es "solo responder", y que la IA vende como le enseñemos (si le enseñas mal, vende mal).

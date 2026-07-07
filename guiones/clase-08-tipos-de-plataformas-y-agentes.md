@@ -1,6 +1,6 @@
 # Guion — Clase 8: Tipos de plataformas (y los agentes de IA por dentro)
 
-> Curso: AdsPRO · Módulo 8 · PLATAFORMAS & AGENTES · ~8 min
+> Curso: AdsPRO · Módulo 8 · PLATAFORMAS & AGENTES · ~6 min
 > Formato: contenido a grabar (puntos a decir, no palabra por palabra).
 > Voz: español colombiano, "tú", directa.
 > Objetivo: que entiendan que no todas las plataformas sirven para lo mismo.

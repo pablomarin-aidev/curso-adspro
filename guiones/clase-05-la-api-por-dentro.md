@@ -1,6 +1,6 @@
 # Guion — Clase 5: La API por dentro (sin tecnicismos)
 
-> Curso: AdsPRO · Módulo 5 · LA API POR DENTRO · ~12 min
+> Curso: AdsPRO · Módulo 5 · LA API POR DENTRO · ~9 min
 > Formato: contenido a grabar (puntos a decir, no palabra por palabra).
 > Voz: español colombiano, "tú", clara y didáctica.
 > Objetivo: explicar la API en lenguaje simple y por qué no basta con la app de WhatsApp.

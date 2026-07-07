@@ -1,6 +1,6 @@
 # Guion — Clase 9: Aprendiendo a usar Kommo CRM
 
-> Curso: AdsPRO · Módulo 9 · PLATAFORMAS & AGENTES · ~8 min
+> Curso: AdsPRO · Módulo 9 · PLATAFORMAS & AGENTES · ~6 min
 > Formato: contenido a grabar (puntos a decir, no palabra por palabra).
 > Voz: español colombiano, "tú", directa y con energía.
 > Objetivo: que el alumno entienda para qué sirve un CRM conversacional y sepa operar Kommo para que ningún lead se le caiga.
@@ -16,7 +16,7 @@
 ### Qué es Kommo y para quién
 - CRM conversacional y omnicanal (antes amoCRM): une chat + embudo de ventas + automatización en un solo lado.
 - La diferencia con una bandeja normal: cada cliente es un **lead con historial, estado y tareas**, no un mensaje que se pierde.
-- Conecta con la Clase 4: aquí ves el flujo y los estados del lead hechos software.
+- Conecta con la Clase 3: aquí ves el flujo y los estados del lead hechos software.
 
 ### Casos de uso (qué vas a poder hacer)
 - Centralizar WhatsApp, Instagram y Messenger en un inbox único.

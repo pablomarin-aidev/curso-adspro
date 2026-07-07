@@ -1,6 +1,6 @@
 # 08 · Tipos de plataformas (y los agentes de IA por dentro)
 
-> Módulo 8 · PLATAFORMAS & AGENTES · ~8 min
+> Módulo 8 · PLATAFORMAS & AGENTES · ~6 min
 
 **No hay "la mejor" plataforma: hay la que sirve para tu trabajo**
 

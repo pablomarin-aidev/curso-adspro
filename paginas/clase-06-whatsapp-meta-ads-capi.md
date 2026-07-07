@@ -1,6 +1,6 @@
 # 06 · WhatsApp + Meta Ads + Conversion API (CAPI) ⭐
 
-> Módulo 6 · MEDICIÓN & PAUTA · ~11 min
+> Módulo 6 · MEDICIÓN & PAUTA · ~8 min
 
 **El filtro de tus clientes pasa en la pauta, no en el chat**
 

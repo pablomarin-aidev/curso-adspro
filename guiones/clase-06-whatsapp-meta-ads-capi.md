@@ -1,6 +1,6 @@
 # Guion — Clase 6: WhatsApp + Meta Ads + Conversion API (CAPI) ⭐
 
-> Curso: AdsPRO · Módulo 6 · MEDICIÓN & PAUTA · ~11 min
+> Curso: AdsPRO · Módulo 6 · MEDICIÓN & PAUTA · ~8 min
 > Formato: contenido a grabar (puntos a decir, no palabra por palabra).
 > Voz: español colombiano, "tú", clara y con energía.
 > Objetivo: conectar ventas con pauta. Aquí se filtran los curiosos — no en el chat, como se suele creer.

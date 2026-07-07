@@ -1,6 +1,6 @@
 # 10 · MergeOn Seller — la plataforma que configuras hablando con Claude
 
-> Módulo 10 · PLATAFORMAS & AGENTES · ~9 min
+> Módulo 10 · PLATAFORMAS & AGENTES · ~7 min
 
 **Todo-en-uno con agentes de IA, configurada por conversación**
 

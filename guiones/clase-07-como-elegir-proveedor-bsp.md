@@ -1,6 +1,6 @@
 # Guion — Clase 7: Cómo elegir tu proveedor (BSP)
 
-> Curso: AdsPRO · Módulo 7 · PROVEEDORES · ~11 min
+> Curso: AdsPRO · Módulo 7 · PROVEEDORES · ~8 min
 > Formato: contenido a grabar (puntos a decir, no palabra por palabra).
 > Voz: español colombiano, "tú", directa.
 > Objetivo: que no compren "el más barato", sino el que resuelve su caso — con criterios y una matriz, no por corazonada.

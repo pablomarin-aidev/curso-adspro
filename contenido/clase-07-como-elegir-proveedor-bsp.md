@@ -1,6 +1,6 @@
 # Clase 7 — Cómo elegir tu proveedor (BSP)
 
-**Módulo 7 · PROVEEDORES · ~11 min**
+**Módulo 7 · PROVEEDORES · ~8 min**
 
 ### No elijas al más barato: elige al que responde por ti
 

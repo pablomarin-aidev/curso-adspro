@@ -1,6 +1,6 @@
-# Clase 4 — La lógica de un buen flujo de ventas
+# Clase 3 — La lógica de un buen flujo de ventas
 
-**Módulo 4 · VENTA & PERSUASIÓN · ~9 min**
+**Módulo 3 · VENTA & PERSUASIÓN · ~7 min**
 
 ### Vender por WhatsApp no es contestar rápido: es tener un sistema
 

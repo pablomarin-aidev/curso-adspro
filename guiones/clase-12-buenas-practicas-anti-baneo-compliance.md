@@ -1,6 +1,6 @@
 # Guion — Clase 12: Buenas prácticas, anti-baneo y compliance
 
-> Curso: AdsPRO · Módulo 12 · COMPLIANCE & ANTI-BANEO · ~9 min
+> Curso: AdsPRO · Módulo 12 · COMPLIANCE & ANTI-BANEO · ~7 min
 > Formato: contenido a grabar (puntos a decir, no palabra por palabra).
 > Voz: español colombiano, "tú", directa.
 > Objetivo: evitar que el alumno implemente mal (y que lo baneen).

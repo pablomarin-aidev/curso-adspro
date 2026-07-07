@@ -1,6 +1,6 @@
 # Guion — Clase 10: MergeOn Seller — la plataforma que configuras hablando con Claude
 
-> Curso: AdsPRO · Módulo 10 · PLATAFORMAS & AGENTES · ~9 min
+> Curso: AdsPRO · Módulo 10 · PLATAFORMAS & AGENTES · ~7 min
 > Formato: contenido a grabar (puntos a decir, no palabra por palabra).
 > Voz: español colombiano, "tú", directa y con energía (educativo, con demo real; sin vender humo).
 > Objetivo: mostrar una plataforma todo-en-uno con agentes de IA y su diferencial —configurarla hablando con Claude (MCP)—. Casos de uso → 80% MCP / 20% interfaz.
@@ -16,7 +16,7 @@
 
 ### Qué es MergeOn Seller
 - Plataforma todo-en-uno de las que viste en la Clase 8: agente de IA que vende por WhatsApp e Instagram + CRM + catálogo + pedidos + campañas + CAPI, todo conectado.
-- Encaja con lo que ya aprendiste: aplica el flujo de ventas de la Clase 4 y la medición CAPI de la Clase 6, en un solo lugar.
+- Encaja con lo que ya aprendiste: aplica el flujo de ventas de la Clase 3 y la medición CAPI de la Clase 6, en un solo lugar.
 - El diferencial: expone un **MCP** → puedes conectarla a Claude y operar todo por chat. Eso es lo de hoy.
 - Define MCP en una línea: "un puente oficial para que Claude use tu plataforma como un empleado con acceso a todo."
 
@@ -44,7 +44,7 @@
 - Este es el gancho para el negocio: todo lo que en el resto del curso aprendes a montar a pulso, MergeOn te lo da resuelto.
 - **Plantillas de venta listas:** bienvenida, seguimiento (día 1/3/7), recuperación de carrito, post-venta y reactivación — no arrancas de cero, se generan y quedan cargadas.
 - **Las métricas de WhatsApp que importan**, en el tablero: tiempo de primera respuesta, tasa de respuesta, conversión chat→venta y desempeño por asesor (las que la pauta no te muestra).
-- **Seguimiento y nurturing automáticos:** las secuencias que dibujaste en la Clase 4, aquí corriendo solas.
+- **Seguimiento y nurturing automáticos:** las secuencias que dibujaste en la Clase 3, aquí corriendo solas.
 - **El prompt del agente, hecho:** el de la Clase 8 se lo pides a Claude y queda listo.
 - Remátalo: "Todo esto se pide y se ajusta hablando. Es, literalmente, el 'hazlo por mí' de todo el curso — y es exclusivo de trabajar sobre MergeOn."
 

@@ -1,6 +1,6 @@
 # Clase 12 — Buenas prácticas, anti-baneo y compliance
 
-**Módulo 12 · COMPLIANCE & ANTI-BANEO · ~9 min**
+**Módulo 12 · COMPLIANCE & ANTI-BANEO · ~7 min**
 
 ### El número es tu negocio: no dejes que te lo tumben
 

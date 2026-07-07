@@ -1,6 +1,6 @@
 # 09 · Aprendiendo a usar Kommo CRM
 
-> Módulo 9 · PLATAFORMAS & AGENTES · ~8 min
+> Módulo 9 · PLATAFORMAS & AGENTES · ~6 min
 
 **De chats sueltos a un embudo con proceso**
 

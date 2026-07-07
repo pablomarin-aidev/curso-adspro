@@ -1,6 +1,6 @@
 # 01 · Qué es realmente WhatsApp como canal de ventas
 
-> Módulo 1 · FUNDAMENTOS · ~8 min
+> Módulo 1 · FUNDAMENTOS · ~6 min
 
 **Personal, Business y API: cuál sirve para vender de verdad**
 

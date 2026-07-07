@@ -1,6 +1,6 @@
-# 03 · Persuasión y venta por WhatsApp
+# 02 · Persuasión y venta por WhatsApp
 
-> Módulo 3 · VENTA & PERSUASIÓN · ~9 min
+> Módulo 2 · VENTA & PERSUASIÓN · ~7 min
 
 **Responder rápido es lo mínimo; vender es otra cosa**
 

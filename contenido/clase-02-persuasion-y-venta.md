@@ -1,6 +1,6 @@
-# Clase 3 — Persuasión y venta por WhatsApp
+# Clase 2 — Persuasión y venta por WhatsApp
 
-**Módulo 3 · VENTA & PERSUASIÓN · ~9 min**
+**Módulo 2 · VENTA & PERSUASIÓN · ~7 min**
 
 ### Responder rápido es lo mínimo; vender es otra cosa
 
