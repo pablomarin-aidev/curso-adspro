@@ -34,10 +34,6 @@ La API no se trata de enviar más mensajes, sino de tres capacidades que el What
 - **Cuándo no:** aún no tienes volumen de chats ni equipo que justifique la migración.
 - **Lo que dice Meta:** la coexistencia es posible, pero tiene matices de estabilidad; no debe asumirse como una solución mágica.
 
-## El dato: por qué WhatsApp convierte más
-
-En LATAM y Colombia, WhatsApp es el canal con mayor tasa de conversión: la gente abre y responde mensajes de WhatsApp muy por encima de lo que abre un correo o una llamada. *(Cifra exacta a insertar según la fuente del curso.)*
-
 ## Errores típicos de quien vende "a mano"
 
 - Responder tarde y perder al cliente caliente.

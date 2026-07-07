@@ -9,12 +9,22 @@
 - Con equipo, automatización y métricas.
 
 ## Lo que aprenderás
+- Entender que whatsapp es un canal de conversión y de ventas, no un canal de mensajería.
 - Diferencia real entre Personal, Business App y API.
 - Cuándo sirve cada uno.
 - Qué problema resuelve la API: vender mejor, automatizar, escalar.
 - No es "tener más WhatsApp".
 - Cómo funciona la coexistencia (número personal + API).
 - Por qué WhatsApp convierte más que cualquier canal en Colombia.
+## Es un canal de ventas
+
+- Es un canal de conversión. De ventas
+- No solo es de mensajería. 
+
+## El dato: por qué WhatsApp convierte más
+- WhatsApp es el canal con mayor conversión en LATAM y Colombia.
+- La gente abre y responde WhatsApp más que correo o llamada.
+- *(Cifra exacta a insertar según la fuente del curso.)*
 
 ## Los tres WhatsApp
 - **Personal**
@@ -45,17 +55,6 @@
 - **Lo que dice Meta:** la coexistencia es posible.
 - Pero tiene matices de estabilidad.
 - No es una solución mágica.
-
-## El dato: por qué WhatsApp convierte más
-- WhatsApp es el canal con mayor conversión en LATAM y Colombia.
-- La gente abre y responde WhatsApp más que correo o llamada.
-- *(Cifra exacta a insertar según la fuente del curso.)*
-
-## Errores típicos de quien vende "a mano"
-- Responder tarde y perder al cliente caliente.
-- Chats que se pierden en el volumen.
-- Un solo celular como cuello de botella.
-- Sin seguimiento ni métricas.
 
 ## Para recordar
 - La API = vender mejor y escalar.
